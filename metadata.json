@@ -1,0 +1,5 @@
+{
+  "name": "SafeJourney",
+  "description": "A decentralized, AI-powered mobile application that uses blockchain and geofencing to provide real-time, proactive safety intelligence and a secure identity system for tourists. The app aims to move beyond simple SOS buttons by offering a comprehensive safety ecosystem that empowers travelers with information and a verifiable digital footprint, while connecting them seamlessly with local authorities and emergency services.",
+  "requestFramePermissions": []
+}
